@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-https://github.com/vishalverma1811/Gallery/assets/106256341/623346ae-37c7-4648-aeea-13a3594cf2f3
+https://github.com/vishalverma1811/Gallery/assets/106256341/72e0d97c-5690-4dc9-bb12-32ce59df4055
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
